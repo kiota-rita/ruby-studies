@@ -4,4 +4,10 @@ class StaticPagesController < ApplicationController
     @nome = "Rita" #variavel de instancia  
   end
   
+
+  def sobre   
+  end
+
+  def contato
+  end
 end
